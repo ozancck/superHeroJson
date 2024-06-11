@@ -1,0 +1,167 @@
+[
+    {
+        "id": 1,
+        "title": "Iron Man",
+        "universe": "Marvel",
+        "kg": 102,
+        "height": 1.88,
+        "powerSize": 85,
+        "speed": 75,
+        "resistance": 70,
+        "money": 100
+    },
+    {
+        "id": 2,
+        "title": "Batman",
+        "universe": "DC",
+        "kg": 95,
+        "height": 1.88,
+        "powerSize": 65,
+        "speed": 80,
+        "resistance": 85,
+        "money": 95
+    },
+    {
+        "id": 3,
+        "title": "Spider-Man",
+        "universe": "Marvel",
+        "kg": 76,
+        "height": 1.78,
+        "powerSize": 75,
+        "speed": 90,
+        "resistance": 60,
+        "money": 20
+    },
+    {
+        "id": 4,
+        "title": "Superman",
+        "universe": "DC",
+        "kg": 107,
+        "height": 1.91,
+        "powerSize": 95,
+        "speed": 95,
+        "resistance": 90,
+        "money": 70
+    },
+    {
+        "id": 5,
+        "title": "Captain America",
+        "universe": "Marvel",
+        "kg": 95,
+        "height": 1.88,
+        "powerSize": 70,
+        "speed": 70,
+        "resistance": 80,
+        "money": 60
+    },
+    {
+        "id": 6,
+        "title": "Wonder Woman",
+        "universe": "DC",
+        "kg": 75,
+        "height": 1.75,
+        "powerSize": 90,
+        "speed": 80,
+        "resistance": 85,
+        "money": 50
+    },
+    {
+        "id": 7,
+        "title": "Thor",
+        "universe": "Marvel",
+        "kg": 100,
+        "height": 1.95,
+        "powerSize": 90,
+        "speed": 70,
+        "resistance": 90,
+        "money": 80
+    },
+    {
+        "id": 8,
+        "title": "Flash",
+        "universe": "DC",
+        "kg": 79,
+        "height": 1.83,
+        "powerSize": 65,
+        "speed": 100,
+        "resistance": 60,
+        "money": 40
+    },
+    {
+        "id": 9,
+        "title": "Hulk",
+        "universe": "Marvel",
+        "kg": 200,
+        "height": 2.44,
+        "powerSize": 100,
+        "speed": 40,
+        "resistance": 95,
+        "money": 50
+    },
+    {
+        "id": 10,
+        "title": "Aquaman",
+        "universe": "DC",
+        "kg": 98,
+        "height": 1.85,
+        "powerSize": 70,
+        "speed": 65,
+        "resistance": 75,
+        "money": 60
+    },
+    {
+        "id": 11,
+        "title": "Black Widow",
+        "universe": "Marvel",
+        "kg": 61,
+        "height": 1.70,
+        "powerSize": 60,
+        "speed": 70,
+        "resistance": 65,
+        "money": 55
+    },
+    {
+        "id": 12,
+        "title": "Green Lantern",
+        "universe": "DC",
+        "kg": 80,
+        "height": 1.85,
+        "powerSize": 80,
+        "speed": 75,
+        "resistance": 70,
+        "money": 65
+    },
+    {
+        "id": 13,
+        "title": "Doctor Strange",
+        "universe": "Marvel",
+        "kg": 75,
+        "height": 1.85,
+        "powerSize": 85,
+        "speed": 65,
+        "resistance": 80,
+        "money": 70
+    },
+    {
+        "id": 14,
+        "title": "Cyborg",
+        "universe": "DC",
+        "kg": 125,
+        "height": 1.98,
+        "powerSize": 85,
+        "speed": 65,
+        "resistance": 85,
+        "money": 50
+    },
+    {
+        "id": 15,
+        "title": "Scarlet Witch",
+        "universe": "Marvel",
+        "kg": 64,
+        "height": 1.70,
+        "powerSize": 90,
+        "speed": 60,
+        "resistance": 70,
+        "money": 65
+    }
+]
